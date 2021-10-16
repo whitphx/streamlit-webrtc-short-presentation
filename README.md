@@ -1,8 +1,8 @@
-# streamlit-webrtc-short-presentation
+# Developing browser-ready real-time computer vision apps with Streamlit
 
 # Set up
 * Kill heavy processes, or reboot the machine
-* Set display resolution lower
+* Set display resolution lower or zoom up the browser and the editor
 * Open demo pages in private window
 * Open editor
   * Comment out all the code
