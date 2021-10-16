@@ -1,5 +1,15 @@
 # streamlit-webrtc-short-presentation
 
+# Set up
+* Kill heavy processes, or reboot the machine
+* Set display resolution lower
+* Open demo pages in private window
+* Open editor
+  * Comment out all the code
+* Launch demos on local as fallbacks
+* Run all the demos once
+* Shutdown notifications
+
 # Contents
 * Intro
   * Streamlit: https://streamlit.io/
